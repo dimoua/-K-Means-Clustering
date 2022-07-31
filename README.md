@@ -6,7 +6,7 @@ Für die Ausführung des Projektes K-Means-Clustering wurde in Git die Übungsau
 Die Requirement enthält die verschiedene Klasse, die für die Ausführung der Klasse in mybinder notwendig ist. Zudem, da mybinder bei der Notebookausführung auf klein und Großbuchstaben achtet, wurde die Excel Daten Name entsprechend angepasst.
 
 ## Beispiel der Übungsaufgabe
-Mit der Funktion describe() wird eine explorative Datenanalyse mithilfe von deskriptiven statistische Methode durchgeführt. Aus der vordefinierte Dataframe df, wird die Funktion describe() eingesetzt und dadurch eine erste Übersicht des gesamten Datensatzes ermöglichen. Auf der Übersicht kann die Informationen wie das Minimum, das Maximum der Durchschnitt aller Werte sowie die Information bezüglich der Existenz von fehlenden Werten oder nicht. In diesem Fall mit der 777.000000 Werten in alle Spalten sind keine fehlende Werte im Datensatz vorhanden.
+Mit der Funktion describe() wird eine explorative Datenanalyse mithilfe von deskriptiven statistischen Methoden durchgeführt. Aus der vordefinierte Dataframe df, wird die Funktion describe() eingesetzt und dadurch eine erste Übersicht des gesamten Datensatzes ermöglichen. Auf der Übersicht kann die Informationen wie das Minimum, das Maximum der Durchschnitt aller Werte sowie die Information bezüglich der Existenz von fehlenden Werten oder nicht. In diesem Fall mit der 777.000000 Werten in alle Spalten sind keine fehlende Werte im Datensatz vorhanden.
 
 ## Funktionsausführung
 
