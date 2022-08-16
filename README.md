@@ -3,10 +3,12 @@
 # K-Means-Clustering Projekt
 
 Für die Ausführung des Projektes K-Means-Clustering wurde in Git die Übungsaufgabe und die dazugehörige Musterlösung aus dem Maschinelle-Learning-Kurs, die Daten für die Ausführung der Übungsaufgabe und eine Requirement Datei, welche für die Ausführung der Aufgabe in mybinder notwendig war, hochgeladen.
-Die Requirement enthält die verschiedene Klasse, die für die Ausführung der Klasse in mybinder notwendig ist. Zudem, da mybinder bei der Notebookausführung auf klein und Großbuchstaben achtet, wurde die Excel Daten Name entsprechend angepasst.
+Die Requirement Datei enthält die verschiedene Klassenbibliothek, die für die Ausführung des Programms in mybinder notwendig ist. Zudem, da mybinder bei der Notebookausführung auf klein und Großbuchstaben achtet, wurde die Excel Daten Name entsprechend angepasst.
 
 ## Beispiel der Übungsaufgabe
 Mit der Funktion describe() wird eine explorative Datenanalyse mithilfe von deskriptiven statistischen Methoden durchgeführt. Aus der vordefinierte Dataframe df, wird die Funktion describe() eingesetzt und dadurch eine erste Übersicht des gesamten Datensatzes ermöglichen. Auf der Übersicht kann die Informationen wie das Minimum, das Maximum der Durchschnitt aller Werte sowie die Information bezüglich der Existenz von fehlenden Werten oder nicht. In diesem Fall mit der 777.000000 Werten in alle Spalten sind keine fehlende Werte im Datensatz vorhanden.
+
+<img width="815" alt="K-Means-Clustering_3-K_Means_Clustering_Projekt-Loesung ipynb" src="https://user-images.githubusercontent.com/62958158/184756471-156aff54-ba71-4d8f-ada0-47a9e111b406.png">
 
 ## Funktionsausführung
 
